@@ -3,8 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Ground
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -14,16 +13,16 @@ TagManager:
   - UI
   - 
   - 
-  - UIManagedFOV
-  - UINoFOV
-  - Character
-  - Shield
-  - Interior
-  - Exterior
   - 
-  - NonWalkable
-  - Background
-  - Map
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
   - 
   - 
   - 
@@ -39,9 +38,6 @@ TagManager:
   - 
   - 
   m_SortingLayers:
-  - name: Distortion
-    uniqueID: 4179220155
-    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
